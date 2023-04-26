@@ -18,21 +18,21 @@
         "remote": "SuperiorOS-Devices"
     },
     {
-        "repository": "EmanuelCN/kernel_xiaomi_sm8250",
+        "repository": "project-nexus/nexus_kernel_xiaomi_sm8250",
         "target_path": "kernel/xiaomi/alioth",
         "branch": "staging",
         "remote": "github"
     },
     {
-    "repository": "Ghosuto/aosp-clang-17.0.0",
-    "target_path": "prebuilts/clang/host/linux-x86/aosp-clang",
-    "branch":"master",
-    "remote":"gitlab"
+        "repository": "Eidoron1/ZyC_clang_16",
+        "target_path": "prebuilts/clang/host/linux-x86/ZyC-clang",
+        "branch":"master",
+        "remote":"gitlab"
     },
     {
-    "repository": "Eidoron1/hardware_xiaomi",
-    "target_path": "hardware/xiaomi",
-    "branch": "thirteen",
-    "remote": "github"
+        "repository": "Eidoron1/hardware_xiaomi",
+        "target_path": "hardware/xiaomi",
+        "branch": "thirteen",
+        "remote": "github"
     }
 ]
